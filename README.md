@@ -1,4 +1,4 @@
-# MATLAB Fall 2014 – Research Plan (Template)
+# MATLAB Fall 2016 – Research Plan (Template)
 
 > * Group Name: Go hard in Gotthard
 > * Group participants names: Bernasconi Gianmarco, Recchia Antonio
