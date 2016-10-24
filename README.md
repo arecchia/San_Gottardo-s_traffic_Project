@@ -33,7 +33,7 @@ The variables we want to analyze with our model are:
 The foundamental questions are: 
 
 1.  Which change in the speed limit is optimal for the fluidity of traffic?
-2.  Is the “CONTAGOCCE” system helpful?
+2.  Is the “dropper” system helpful?
 3   Would be useful to keep open the mountain pass longer?
 
 
